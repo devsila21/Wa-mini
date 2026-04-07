@@ -9,7 +9,7 @@
     "restart": "pm2 restart tube-ai"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:angularsockets",
+    "@whiskeysockets/baileys": "npm:gifted-baileys@2.0.6",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -34,6 +34,7 @@
     "node-fetch": "^2.6.1",
     "btch-downloader": "^2.2.9",
     "megajs": "^1.3.7",
+    "gifted-btns": "^1.0.2",
     "pdfkit": "^0.17.1",
     "wa_set_pkg": "1.0.5",
     "wa-sticker-formatter": "^4.4.4",
